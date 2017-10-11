@@ -77,6 +77,6 @@ Question 9:
 
 (+) *
 
-(-) Ooof. Try asking me "Any food suggestions?"
+(-) Ooof. Try asking me something like "Any food suggestions?"
 
-(-) Ooof. Try asking me "Whats happening tonight?"
+(-) Ooof. Try asking me something like "Whats happening tonight?"
